@@ -1,0 +1,9 @@
+[submodule "GundamHub_app"]
+	path = GundamHub_app
+	url = https://github.com/tsgreenberg1217/GundamHub_app.git
+[submodule "aimuro"]
+	path = aimuro
+	url = https://github.com/tsgreenberg1217/aimuro.git
+[submodule "gundamhub-card-service"]
+	path = gundamhub-card-service
+	url = https://github.com/tsgreenberg1217/gundamhub-card-service.git
