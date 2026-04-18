@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="081932cc-328d-4420-a05d-f776488e22ee" name="Changes" comment="" />
+    <list default="true" id="081932cc-328d-4420-a05d-f776488e22ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aimuro" beforeDir="false" afterPath="$PROJECT_DIR$/aimuro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundam-hub-build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/gundam-hub-build.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,7 @@
   </component>
   <component name="CopilotPersistence">
     <persistenceIdMap>
+      <entry key="_/Users/toddgreenberg/Documents/apps/gundamhub" value="3CXKxlBxXcPlp2XZ8D7MjG5wKT2" />
       <entry key="_/Users/toddgreenberg/Documents/development/gundamhub" value="3CUzhzHbsZmI7kHfveU6w38rICZ" />
     </persistenceIdMap>
   </component>
@@ -55,17 +61,17 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aimuro" />
   </component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$/GundamHub_app/node_modules/@react-native/gradle-plugin" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-9.0.0-bin/d6wjpkvcgsg3oed0qlfss3wgl/gradle-9.0.0" javaHome="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home" gradleVersion="9.0.0" />
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3CUzhzHbsZmI7kHfveU6w38rICZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -77,18 +83,17 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/toddgreenberg/Documents/development/gundamhub"
+    "last_opened_file_path": "/Users/toddgreenberg/Documents/apps/gundamhub"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
-      </set>
-    </attachedChunks>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="081932cc-328d-4420-a05d-f776488e22ee" name="Changes" comment="" />
@@ -98,6 +103,11 @@
       <updated>1776455059381</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.apollographql.ijplugin.settings.ProjectSettingsState">
+    <option name="hasEnabledGraphQLPluginApolloKotlinSupport" value="true" />
+    <option name="lspPassPathToSuperGraphYaml" value="false" />
+    <option name="telemetryInstanceId" value="60066fde-d6f8-4cb9-8336-80848be47a83" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
