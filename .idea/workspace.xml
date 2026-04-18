@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="081932cc-328d-4420-a05d-f776488e22ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aimuro" beforeDir="false" afterPath="$PROJECT_DIR$/aimuro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aimuro/aimuro-build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/aimuro/aimuro-build.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gundam-hub-build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/gundam-hub-build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/beta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/gd01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/gd02.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/promotion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/st01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/st02.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/st03.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/st04.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/st05.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/cards/en/st06.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundam-tcg-data/sets/en/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundamhub-k8/aimuro/vector-db-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gundamhub_dev/gundamhub-k8/aimuro/vector-db-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundamhub-k8/gundam-card/db-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gundamhub_dev/gundamhub-k8/gundam-card/db-deployment.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gundamhub_dev/gundamhub-k8/run-cluster.sh" beforeDir="false" afterPath="$PROJECT_DIR$/gundamhub_dev/gundamhub-k8/run-cluster.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +77,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aimuro" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gundamhub_dev/gundamhub-k8" />
   </component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$/GundamHub_app/node_modules/@react-native/gradle-plugin" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-9.0.0-bin/d6wjpkvcgsg3oed0qlfss3wgl/gradle-9.0.0" javaHome="$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home" gradleVersion="9.0.0" />
   <component name="McpProjectServerCommands">
@@ -83,7 +99,7 @@
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/toddgreenberg/Documents/apps/gundamhub"
   }

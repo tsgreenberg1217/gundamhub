@@ -7,16 +7,9 @@ sleep 1
 clear
 
 
-echo "🗃🗃🗃🗃️ BUILDING CARD SERVICE  🗃🗃🗃🗃"
-cd gundamhub-card-service
-./gradlew build
-docker build -t gundam-card-service .
-cd ../aimuro
+cd gundamhub-card-service/
+./build-card-service.sh
+cd ../aimuro/
 ./aimuro-build.sh
 cd ..
 docker-compose up -d
-
-#docker tag gundam-card-service tsgreenberg1217/todds-playground:gundam-card-service
-#docker push tsgreenberg1217/todds-playground:gundam-card-service
-
-# docker-compose up -d
